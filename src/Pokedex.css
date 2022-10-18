@@ -1,0 +1,14 @@
+.pokedex {
+  display: flex;
+  width: 75%;
+  flex-wrap: wrap;
+  flex: 200px;
+  gap: 20px;
+  justify-content: space-evenly;
+  margin: 2rem auto;
+  align-self: baseline;
+}
+
+.pokedex-header {
+  width: 100%;
+}

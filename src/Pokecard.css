@@ -1,0 +1,19 @@
+.pokecard {
+  width: 175px;
+  height: 200px;
+  background-color: lightgray;
+  display: inline-block;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 7%;
+  box-sizing: border-box;
+}
+
+.pokemon-name {
+  color: blue;
+  font-weight: bold;
+}
+
+.pokemon-img {
+  max-width: 96px;
+}
